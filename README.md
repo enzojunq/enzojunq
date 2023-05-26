@@ -2,7 +2,7 @@
 - 👀 I’m interested in Computer Engineering
 - 🌱 I’m currently learning Computer Engineering at Insper in Brazil.
 - 💞️ I’m looking to collaborate on projects of my interests
-- 📫 My  email is enzopj@hotmail.com, feel free to contact me!
+- 📫 My Instagram is @enzopj, feel free to contact me!
 
 <!---
 enzojunq/enzojunq is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
