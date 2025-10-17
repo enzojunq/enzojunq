@@ -11,5 +11,5 @@ You can click the Preview link to take a look at your changes.
 
 
 
-<img align="left" alt="enzojunq's Github Stats" src="github-stats-git-main-enzojunqs-projects.vercel.app/api?username=enzojunq&show_icons=true&hide_border=true" />
+<img align="left" alt="enzojunq's Github Stats" src="https://github-stats-git-main-enzojunqs-projects.vercel.app/api?username=enzojunq&show_icons=true&hide_border=true" />
 
