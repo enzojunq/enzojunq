@@ -1,3 +1,4 @@
+## Info
 - 👋 Hi, I’m Enzo Junqueira, a.k.a. @enzojunq
 - 👀 I’m interested in Computer Engineering
 - 🌱 I’m currently learning Computer Engineering at Insper in Brazil.
@@ -9,7 +10,7 @@ enzojunq/enzojunq is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
-
-
+## Stats
+<div align="center">
 <img alt="enzojunq's Github Stats" src="https://github-stats-olive-nu.vercel.app/api?username=enzojunq&show_icons=true&theme=dark#gh-dark-mode-only" />
-
+<div>
